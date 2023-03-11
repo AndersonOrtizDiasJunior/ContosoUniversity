@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4sGu9natbbNoeKqfX33CxKLIvPHBoIyCF3r7iK8xg4f63CvrJqtOLjimRsVVRFx683DDLeL93D1zm9GrvhfcxQ==",
+  "dgSpecHash": "tBvvkizxQBBQRBfic3faCjExDLwqUJa10fvXf8oSWCLye4B4U9KgNuSNsVte2jzKEU0qlkCXaWjW9nED6qjNxA==",
   "success": true,
   "projectFilePath": "/Users/andersondj/Anderson/BYUI/Winter 2023/dot Net/ContosoUniversity/SkinumFlankersUniversity/SkinumFlankersUniversity/SkinumFlankersUniversity.csproj",
   "expectedPackageFiles": [
@@ -61,6 +61,7 @@
     "/Users/andersondj/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "/Users/andersondj/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
     "/Users/andersondj/.nuget/packages/runtime.native.system/4.3.0/runtime.native.system.4.3.0.nupkg.sha512",
+    "/Users/andersondj/.nuget/packages/sqlite/3.13.0/sqlite.3.13.0.nupkg.sha512",
     "/Users/andersondj/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.4/sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "/Users/andersondj/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
     "/Users/andersondj/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.4/sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
